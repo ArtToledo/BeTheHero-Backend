@@ -1,4 +1,7 @@
-![thumbnailAplication](https://github.com/ArtToledo/Be-the-hero/blob/master/logoBeTheHero.svg)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ArtToledo/Be-the-hero/blob/master/logoBeTheHero.svg">
+</p>
+
 # BeTheHero (Node.js) - Semana Omnistack 11 Rocketseat
 ###### Backend em Node.js criado durante a semana de programação fullstack fornecida pela empresa Rocketseat.
 
